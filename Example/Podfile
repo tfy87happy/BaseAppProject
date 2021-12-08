@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BaseAppProject_Example' do
+  pod 'BaseAppProject', :path => '../'
+
+  target 'BaseAppProject_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
