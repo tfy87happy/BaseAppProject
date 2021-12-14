@@ -4,6 +4,24 @@ platform :ios, '9.0'
 
 target 'BaseAppProject_Example' do
   pod 'BaseAppProject', :path => '../'
+  
+  pod 'AFNetworking', '~> 4.0.1'
+  pod 'SDWebImage'
+  pod 'YYKit'
+  pod 'MJRefresh'
+  pod 'SSZipArchive'
+  pod 'YTKNetwork'
+  pod 'Masonry'
+  pod 'TTTAttributedLabel'
+  pod 'MBProgressHUD'
+  pod 'SDCycleScrollView'
+  pod 'IQKeyboardManager'
+  pod 'UICKeyChainStore'
+  pod 'XHLaunchAd', '~> 3.9.12'
+  pod 'CYLTabBarController', '~> 1.29.0'
+  pod 'QMUIKit'
+#  pod 'lottie-ios'
+#  pod 'ZXNavigationBar'
 
   target 'BaseAppProject_Tests' do
     inherit! :search_paths

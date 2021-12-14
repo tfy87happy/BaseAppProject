@@ -1,0 +1,99 @@
+{
+    "colors": {
+        "SHMainThemeColorKey": {
+            "color":"33A1CF",
+        },
+        "SHMainThemeSecondColorKey": {
+            "color":"131313",
+        },
+        "SHMainThemeSecondFunctionColorKey": {
+            "color":"FF5D57",
+        },
+        "SHBackgroundColorKey": {
+            "color":"000000",
+        },
+        "SHMainTextColorKey": {
+            "color":"ffffff",
+        },
+        "SHMainDetailColorKey": {
+            "color":"ffffff",
+        },
+        "SHPlaceholderColorKey": {
+            "color":"000000",
+        },
+        
+        "SHNavBarBackgroundColorKey": {
+            "color":"000000",
+        },
+        "SHNavBarTitleColorKey": {
+            "color":"ffffff",
+        },
+        "SHNavBarTitleGradientColorKey": {
+            "color":"000000",
+        },
+        "SHNavBarTintColorKey": {
+            "color":"ffffff",
+        },
+        
+        "SHTabBarBackgroundColorKey": {
+            "color":"191C2A",
+        },
+        "SHTabBarTitleColorKey": {
+            "color":"ffffff",
+            "alpha":"0.5"
+        },
+        "SHTabBarTitleSeletedColorKey": {
+            "color":"ffffff",
+        },
+        
+        "SHTableViewCellBackgroundColorKey": {
+            "color":"C1C1C0",
+        },
+        "SHTableViewCellTitleColorKey": {
+            "color":"ffffff",
+        },
+        
+        "SHTableViewCellDetailColorKey": {
+            "color":"ffffff",
+        },
+        "SHTableViewCellSeparatorColorKey": {
+            "color":"cccccc",
+        },
+        "SHTableViewCellBorderColorKey": {
+            "color":"cccccc",
+        },
+    },
+    "images": {
+        "SHMainHomeTabImageKey": {
+            "imageName":"smartHomeTab",
+        },
+        "SHMainHomeSeletedTabImageKey": {
+            "imageName":"smartHomeSelectedTab",
+        },
+        "SHDeviceTabImageKey": {
+            "imageName":"smartDeviceTab",
+        },
+        "SHDeviceSeletedTabImageKey": {
+            "imageName":"smartDeviceSeletedTab",
+        },
+        "SHMainTabImageKey": {
+            "imageName":"mineTab",
+        },
+        "SHMainSeletedTabImageKey": {
+            "imageName":"mineSelectedTab",
+        },
+        "SHMainBackgroundImageKey": {
+            "imageName":"mineSelectedTab",
+        },
+        
+        "kp_bg_on": {
+            "imageName":"kp_bg_on",
+        },
+        "kp_bg_on_big": {
+            "imageName":"kp_bg_on_big",
+        },
+    },
+    "appearance" : {
+        
+    }
+}

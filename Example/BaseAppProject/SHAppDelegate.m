@@ -7,12 +7,14 @@
 //
 
 #import "SHAppDelegate.h"
+#import "AppStartUpManager.h"
 
 @implementation SHAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [[AppStartUpManager sharedInstance] startupEventsOnAppDidFinishLaunchingWithOptions:launchOptions];
     return YES;
 }
 

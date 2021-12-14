@@ -1,0 +1,6 @@
+framework module BaseAppProject {
+  umbrella header "BaseAppProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
